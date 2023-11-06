@@ -1,0 +1,22 @@
+modLoader = "javafml"
+loaderVersion = "[47,)"
+license = "MIT"
+
+[[mods]]
+    modId = "kubejsbloodmagic"
+    version = "${file.jarVersion}"
+    displayName = "KubeJS Blood Magic"
+    authors = "CathieMomRawr"
+    description = '''Adds Blood Magic support to KubeJS'''
+[[dependencies.kubejsbloodmagic]]
+    modId = "kubejs"
+    mandatory = true
+    versionRange = "[1604,)"
+    ordering = "AFTER"
+    side = "BOTH"
+[[dependencies.kubejsbloodmagic]]
+    modId = "bloodmagic"
+    mandatory = true
+    versionRange = "*"
+    ordering = "AFTER"
+    side = "BOTH"
