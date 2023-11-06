@@ -1,6 +1,8 @@
 
 # This mod allows you to create recipes for Blood Magic using KubeJS.
 
+# [For issues Join Discord](https://discord.gg/u6SpUpfMzy)
+
 ## Supported recipe types:
 ### **Blood Altar**
 - event.recipes.bloodmagic.altar(output, input)
