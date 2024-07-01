@@ -1,10 +1,9 @@
-package net.cathiemomrawr.kubejsbloodmagic.recipes;
+package net.cathienova.kubejsbloodmagic.recipes;
 
 import dev.latvian.mods.kubejs.item.InputItem;
 import dev.latvian.mods.kubejs.item.OutputItem;
 import dev.latvian.mods.kubejs.recipe.RecipeKey;
 import dev.latvian.mods.kubejs.recipe.component.ItemComponents;
-import dev.latvian.mods.kubejs.recipe.component.NumberComponent;
 import dev.latvian.mods.kubejs.recipe.component.StringComponent;
 import dev.latvian.mods.kubejs.recipe.schema.RecipeSchema;
 

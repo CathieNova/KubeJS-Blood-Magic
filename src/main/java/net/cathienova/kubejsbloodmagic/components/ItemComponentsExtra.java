@@ -1,4 +1,4 @@
-package net.cathiemomrawr.kubejsbloodmagic.components;
+package net.cathienova.kubejsbloodmagic.components;
 
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;

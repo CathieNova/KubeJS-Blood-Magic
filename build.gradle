@@ -7,7 +7,7 @@ plugins {
 }
 
 version = mod_version + '-' + minecraft_version
-group = 'net.cathiemomrawr.kubejsbloodmagic'
+group = 'net.cathienova.kubejsbloodmagic'
 
 base {
     archivesName = 'KubeJS Blood Magic'

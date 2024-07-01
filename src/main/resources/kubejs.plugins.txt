@@ -1,1 +1,1 @@
-net.cathiemomrawr.kubejsbloodmagic.KubeJSBloodMagicPlugin
+net.cathienova.kubejsbloodmagic.KubeJSBloodMagicPlugin

@@ -1,4 +1,4 @@
-package net.cathiemomrawr.kubejsbloodmagic;
+package net.cathienova.kubejsbloodmagic;
 
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.common.Mod;

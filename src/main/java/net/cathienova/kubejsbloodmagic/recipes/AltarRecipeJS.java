@@ -1,4 +1,4 @@
-package net.cathiemomrawr.kubejsbloodmagic.recipes;
+package net.cathienova.kubejsbloodmagic.recipes;
 
 import dev.latvian.mods.kubejs.item.InputItem;
 import dev.latvian.mods.kubejs.item.OutputItem;

@@ -6,7 +6,7 @@ license = "MIT"
     modId = "kubejsbloodmagic"
     version = "${file.jarVersion}"
     displayName = "KubeJS Blood Magic"
-    authors = "CathieMomRawr"
+    authors = "CathieNova"
     description = '''Adds Blood Magic support to KubeJS'''
 [[dependencies.kubejsbloodmagic]]
     modId = "kubejs"

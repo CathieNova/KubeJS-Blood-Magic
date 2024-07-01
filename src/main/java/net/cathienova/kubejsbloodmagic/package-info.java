@@ -1,5 +1,5 @@
 @ParametersAreNonnullByDefault @MethodsReturnNonnullByDefault
-package net.cathiemomrawr.kubejsbloodmagic;
+package net.cathienova.kubejsbloodmagic;
 
 import net.minecraft.MethodsReturnNonnullByDefault;
 
